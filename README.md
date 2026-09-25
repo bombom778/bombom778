@@ -22,4 +22,18 @@ saya adalah praktisi seo 303
   alt="GitHub Contribution Snake"
 />
 
+<hr>
 
+<h1 align="center">TERIMA KASIH SEMUANYA, GOOD BYE</h1>
+
+<p align="center">
+  •●•
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bombom778/bombom778/main/assets/github-opndaud.gif" alt="Anonymous Guy" width="500">
+</p>
+
+<p align="center">
+  <i><b>GOOD BYE ALL</b></i>
+</p>
