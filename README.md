@@ -16,10 +16,10 @@ saya adalah praktisi seo 303
 [![](https://komarev.com/ghpvc/?username=bombom778&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🐍 Kotak Kontribusi Ular Saya
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="GitHub Ular Animasi" src="https://githubusercontent.com">
-</picture>
+
+<img
+  src="https://raw.githubusercontent.com/bombom778/bombom778/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 
